@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on React Native / React Projects
 - ⚡ Fun fact: I love learning and trying new things. I enjoy travelling.  Future Tech Innovations excites me
 
-####Laguanges and Skill Set:
+#### Laguanges and Skill Set:
 
 ![image](https://user-images.githubusercontent.com/7090849/158782606-b0237ebf-e32d-4206-ab7d-09176d4a2134.png)
 
